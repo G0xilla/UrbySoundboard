@@ -1,1 +1,1 @@
-Kral ma smradlavou prdel.
+Kral lzi ma smradlavou prdel.
