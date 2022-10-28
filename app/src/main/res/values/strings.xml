@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">UrbySoundboard</string>
+
+    <!--Sound names-->
+    <string name="ale_pod_kapotou_ostuda">ale pod kapotou ostuda</string>
+    <string name="kamarade_ja_mam_mclaren">kamarade ja mam McLaren</string>
+    <string name="n400_ty_nulo">400 ty nulo</string>
+    <string name="nic_moc_kamarade">nic moc kamarade</string>
+    <string name="ostuda">ostuda</string>
+    <string name="tak_toto_je_ostuda">tak toto je ostuda</string>
+    <string name="ty_jsi_ostuda_ty_jsi_nula">ty jsi ostuda</string>
+
 </resources>
